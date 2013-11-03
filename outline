@@ -1,0 +1,40 @@
+Basic vi
+  - how do I type
+  - how do I quit?
+
+Vim is not vi
+  - more powerful
+  - more customisable
+
+Not an IDE
+  - probably wouldn't use for Java etc
+  - a lot of tasks (inc dynamic languages) don't need/benefit from IDE
+  - and it's a much better text editor (once you can use it)
+  - there are ways of combining the two
+
+Language-aware
+  - colour
+  - indentation
+
+Modes
+  - normal
+  - insert
+  - command
+  - visual
+
+Movement
+
+Actions
+
+Combining movement and actions
+
+Macros
+
+Bits and bobs
+  - splits
+  - spell check
+  - line wrap
+  - block select
+  - scripting
+
+Graphical (gvim/macvim)
