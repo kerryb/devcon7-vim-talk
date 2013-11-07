@@ -1,2 +1,2 @@
-mvim -CRfu /dev/null -S vi-setup files/title
-sed 's|^|files/|' index | xargs mvim -S vim-setup +%ColorHighlight
+mvim -CRu /dev/null -S vi-setup files/title
+sed 's|^|files/|' index | xargs mvim -S vim-setup
