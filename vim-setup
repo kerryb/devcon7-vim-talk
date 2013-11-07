@@ -3,4 +3,4 @@ set guifont=Source\ Code\ Pro:h18
 set background=light
 colorscheme solarized
 nnoremap <Space> :next<cr>
-nnoremap <Up> :previous<cr>
+nnoremap <Backspace> :previous<cr>

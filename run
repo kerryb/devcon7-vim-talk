@@ -1,2 +1,3 @@
 mvim -CRu /dev/null -S vi-setup files/title
+sleep 1
 sed 's|^|files/|' index | xargs mvim -S vim-setup

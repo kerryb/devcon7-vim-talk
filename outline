@@ -7,15 +7,18 @@ Vim is not vi
   - more powerful
   - more customisable
   - optionally window-based rather than terminal
+
+Some features you'd expect from a modern editor
+  - tabs
+  - splits
+  - line wrap
+  - spell check
   - still a learning curve!
 
 Language-aware
   - colour
   - indentation
-  - tabs
-  - splits
-  - spell check
-  - line wrap
+  - syntax checking
 
 Not an IDE
   - probably wouldn't use for Java etc
@@ -38,11 +41,9 @@ Modes
   - command
     - run commands (duh)
     - eg open, save, quit, search and replace
+    - linewise operations
     - many many more!
-    - including :help
-      - specific commands
-      - general
-      - links
+    - shell commands
   - visual
     - select words or lines
     - block select

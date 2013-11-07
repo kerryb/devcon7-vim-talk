@@ -1,0 +1,9 @@
+body {
+  background-color: #ccc;
+  color: #88f;
+}
+
+p.important {
+  font-weight: bold;
+  color: #f44;
+}
