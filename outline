@@ -1,10 +1,21 @@
-Basic vi
-  - how do I type
+First impressions of vi
+  - very basic
+  - how do I type?
   - how do I quit?
 
 Vim is not vi
   - more powerful
   - more customisable
+  - optionally window-based rather than terminal
+  - still a learning curve!
+
+Language-aware
+  - colour
+  - indentation
+  - tabs
+  - splits
+  - spell check
+  - line wrap
 
 Not an IDE
   - probably wouldn't use for Java etc
@@ -12,29 +23,41 @@ Not an IDE
   - and it's a much better text editor (once you can use it)
   - there are ways of combining the two
 
-Language-aware
-  - colour
-  - indentation
+Why am I claiming it's a better editor?
+  - inputting vs editing
+  - inputting is easy
+  - vim excels at editing
 
 Modes
-  - normal
-  - insert
+  - start in normal mode
+    - accepts commands to move cursor and operate on text
+    - all keys available
+  - insert mode
+    - everyone knows you can enter with a or i
+    - lots of other ways too
   - command
+    - run commands (duh)
+    - eg open, save, quit, search and replace
+    - many many more!
+    - including :help
+      - specific commands
+      - general
+      - links
   - visual
+    - select words or lines
+    - block select
+      - quadruple-click!
 
 Movement
+  - simple up/down/left/right
+  - h,j,k,l, but arrows work too!
+  - words, sentences and paragraphs
+  - find (text/character)
 
 Actions
-
-Combining movement and actions
+  - do something while moving
+  - yank, delete, paste
+  - change
+  - up/downcase
 
 Macros
-
-Bits and bobs
-  - splits
-  - spell check
-  - line wrap
-  - block select
-  - scripting
-
-Graphical (gvim/macvim)
